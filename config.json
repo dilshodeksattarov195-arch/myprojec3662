@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailrarse",
+        "uuid": 36850706,
+        "checksum": "g040us"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
